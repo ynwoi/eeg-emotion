@@ -8,4 +8,5 @@ In order to facilitate more effective interaction between computers and humans, 
 ## III. Dataset Description
 The dataset used in this project is the SEED dataset, which uses EEG, EOG (Electrooculogram), EMG, GSR, RSP (Respiratory Signal), BP (Blood Pressure), and ST (Skin Temperature) to classify five different emotions. One of the crucial aspects of emotion datasets is to induce the emotion in the subject. This dataset uses 15 film clips, each lasting about 4 minutes, to evoke emotions. The dataset consists of data from 15 subjects. Each subject has contributed data in three separate sessions, with at least one week's gap between each session. The dataset from each session has been allocated into training, validation, and test sets.
 
-Dataset: https://drive.google.com/drive/folders/1geYKW6gzzUJtwtDWxJvncfZkMliu1O_Q?usp=sharing
+You have to download the dataset and put it in the dataset folder.
+SEED dataset download : https://bcmi.sjtu.edu.cn/ApplicationForm/apply_form/
